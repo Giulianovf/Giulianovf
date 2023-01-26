@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Giulianovf/04f0ab311d1381701d7416f0e82d72f5/raw/86bc2e85e99870aba1ad05fbb7eb1eacee1b813f/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Giuliano Vasconcelos Figueiró</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Giulianovf&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer starting to program 
 
