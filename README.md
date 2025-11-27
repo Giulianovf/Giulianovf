@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning Java, Javascript, HTML, CSS, React, Python. 
+- 🌱 I’m currently learning Javascript, HTML, CSS, React, Python. 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, Java**
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, Python**
 
 <br><br>
 
